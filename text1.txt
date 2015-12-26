@@ -1,0 +1,3 @@
+Parameterized Tests: The class 
+1. is annotatited with @RunWith
+2. has a single constructor that stores the test data
